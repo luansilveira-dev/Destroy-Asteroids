@@ -14,11 +14,13 @@ pasta_principal = os.path.dirname(__file__)
 pasta_imagens = os.path.join(pasta_principal, 'imagens')
 pasta_sons = os.path.join(pasta_principal, 'sons')
 
+
 LARGURA_P, ALTURA_P = pygame.display.Info().current_w, pygame.display.Info().current_h
 
 # LARGURA = 720 , ALTURA = 560
-LARGURA = 983_520/LARGURA_P
-ALTURA = 430_080/ALTURA_P
+LARGURA = 983_520//LARGURA_P-200
+ALTURA = 430_080//ALTURA_P
+
 BRANCO = (255, 255, 255)
  
 

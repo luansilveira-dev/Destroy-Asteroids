@@ -255,7 +255,7 @@ while True:
             atualizarDados([record, pontos])
             game_over = mensagens("GAME OVER", 70, (0, 0, 0), True)
             continuar = mensagens("Continue - x", 35, (0, 0, 0), False)
-            sair = mensagens("Quit - y", 33, (0, 0, 0), False)
+            sair = mensagens("Quit - z", 33, (0, 0, 0), False)
             janela.blit(game_over, (LARGURA / 4.9, ALTURA / 3))
 
             janela.blit(continuar, ((LARGURA / 4.5) + 100, (ALTURA / 3) + 120))

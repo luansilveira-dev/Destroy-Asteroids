@@ -1,5 +1,12 @@
 # Destroy Asteroids 
 "Destroy Asteroids" é um jogo criado com Python e a biblioteca Pygame. O objetivo do jogo é dirigir uma nave espacial e destruir o maior número de asteroides possível, mantendo-se ao mesmo tempo em um caminho diferente para evitar colisões. Ao usar os tiros da nave para destruir os asteroides, o jogador ganha pontos. Quando a nave colide com um asteroide, o jogo termina. Em cada tentativa, o jogador pode tentar superar seu próprio recorde.
+## Imagens
+
+<p align="center">
+<img src="https://img.itch.zone/aW1hZ2UvMjQxNDc3MC8xNDI5MjU3Mi5wbmc=/original/%2B7Alr6.png" alt="drawing" style="width:600px;"/>
+<img src="https://img.itch.zone/aW1hZ2UvMjQxNDc3MC8xNDI5MjU3My5wbmc=/original/CulrRW.png" alt="drawing" style="width:600px;"/>
+<img src="https://img.itch.zone/aW1hZ2UvMjQxNDc3MC8xNDI5MjU3NC5wbmc=/original/C%2BW%2Bbc.png" style="width:600px;"/>
+</p>
 
 ## Jogabilidade
 
